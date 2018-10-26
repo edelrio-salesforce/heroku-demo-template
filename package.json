@@ -1,0 +1,19 @@
+{
+  "name": "heroku-template",
+  "version": "1.0.0",
+  "description": "A default template for submitting apps to heroku ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegoprestes/heroku-template.git"
+  },
+  "keywords": ["heroku", "template"],
+  "author": "Diego Galho Prestes",
+  "license": "ISC"
+}
